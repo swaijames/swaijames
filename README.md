@@ -62,23 +62,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaijames&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-
-<!--<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacheraSasi&layout=compact&theme=dark" alt="Top Languages" />
-</p> -->
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swaijames&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🌟 Random Dev Quote
 <p align="center">
